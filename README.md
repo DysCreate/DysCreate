@@ -114,40 +114,6 @@ Full-stack platform where **employees** build a Trust Score through completed jo
 
 ![Snake animation](https://raw.githubusercontent.com/DysCreate/DysCreate/output/github-contribution-grid-snake-dark.svg)
 
-</div>
-
-> **⚙️ One-time setup:** Create `.github/workflows/snake.yml` in your `DysCreate/DysCreate` profile repo:
->
-> ```yaml
-> name: Generate Snake
->
-> on:
->   schedule:
->     - cron: "0 0 * * *"
->   workflow_dispatch:
->
-> jobs:
->   generate:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk/svg-only@v3
->         with:
->           github_user_name: DysCreate
->           outputs: |
->             dist/github-contribution-grid-snake.svg
->             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
->       - uses: crazy-max/ghaction-github-pages@v3.1.0
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
-> Then go to **Actions → Generate Snake → Run workflow** to trigger it manually the first time. It will auto-update every day after that!
-
----
-
-<div align="center">
 
 *"Exploring programs, one commit at a time."*
 
