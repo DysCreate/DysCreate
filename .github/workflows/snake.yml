@@ -1,5 +1,4 @@
 name: Generate Snake
-
 on:
   schedule:
     - cron: "0 0 * * *"
@@ -11,17 +10,22 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
+      
       - uses: Platane/snk@v3
         id: snake-svg
         with:
           github_user_name: DysCreate
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
       - uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: output
-          publish_dir: dist
+          publish_dir: ./dist
+          force_orphan: true
