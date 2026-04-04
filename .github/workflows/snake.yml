@@ -12,15 +12,16 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk/svg-only@v3
+      - uses: actions/checkout@v3
+      - uses: Platane/snk@v3
+        id: snake-svg
         with:
           github_user_name: DysCreate
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - name: Push snake animation to output branch
-        uses: peaceiris/actions-gh-pages@v4
+            dist/github-contribution-grid-snake-dark.svg
+      - uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: output
-          publish_dir: ./dist
+          publish_dir: dist
