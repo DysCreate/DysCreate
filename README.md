@@ -108,7 +108,6 @@ Full-stack platform where **employees** build a Trust Score through completed jo
 
 ---
 
-## 🐍 Watch the Snake Munch My Contributions
 
 <div align="center">
 
