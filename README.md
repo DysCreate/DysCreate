@@ -112,7 +112,11 @@ Full-stack platform where **employees** build a Trust Score through completed jo
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/DysCreate/DysCreate/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DysCreate/DysCreate/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DysCreate/DysCreate/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/DysCreate/DysCreate/output/github-contribution-grid-snake.svg" />
+</picture>
 
 
 *"Exploring programs, one commit at a time."*
