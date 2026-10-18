@@ -1,113 +1,133 @@
 <div align="center">
 
-# Hey, I'm Pranav P P 👋
-### aka DysCreate
+```
+ ____   ____      _     _   _     _    __     __
+|  _ \ |  _ \    / \   | \ | |   / \   \ \   / /
+| |_) || |_) |  / _ \  |  \| |  / _ \   \ \ / / 
+|  __/ |  _ <  / ___ \ | |\  | / ___ \   \ V /  
+|_|    |_| \_\/_/   \_\|_| \_|/_/   \_\   \_/   
+```
 
-*Passionate about building things that matter — exploring programs, one repo at a time.*
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=7AA2F7&center=true&vCenter=true&width=520&lines=Full-stack+developer;AI-powered+tools+and+web+applications;Building+clean%2C+working+software)](https://github.com/DysCreate)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranav-p-p)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DysCreate)
-[![Location](https://img.shields.io/badge/📍_Thrissur,_Kerala-India-green?style=for-the-badge)](https://github.com/DysCreate)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-24283b?style=flat-square&logo=linkedin&logoColor=7aa2f7)](https://linkedin.com/in/pranav-p-p)
+[![GitHub](https://img.shields.io/badge/GitHub-24283b?style=flat-square&logo=github&logoColor=bb9af7)](https://github.com/DysCreate)
+[![Location](https://img.shields.io/badge/Thrissur,_Kerala,_India-24283b?style=flat-square&logoColor=9ece6a)](https://github.com/DysCreate)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+```bash
+pranav@github:~$ whoami
+```
 
-- 🔭 Currently building full-stack web apps and exploring AI-powered tools
-- 🌱 Always learning — from OCR pipelines to trust-score engines
-- 💡 I love turning complex ideas into clean, working software
-- 🤝 Open to collaboration on interesting open-source projects
+**Pranav P P** (DysCreate), full-stack developer focused on building things that matter.
 
----
+```bash
+pranav@github:~$ cat about.md
+```
 
-## 🛠️ Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-
-### AI / ML
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![TrOCR](https://img.shields.io/badge/TrOCR_(Microsoft)-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-
-### Database & Auth
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON%20web%20tokens&logoColor=white)
+- Currently building full-stack web applications and exploring AI-powered tools
+- Continuous learner, from OCR pipelines to trust-score engines
+- Turning complex ideas into clean, working software
+- Open to collaboration on open-source projects
 
 ---
 
-## 🚀 Featured Projects
+```bash
+pranav@github:~$ neofetch
+```
 
-### 📝 [MarkMyPaper](https://github.com/DysCreate/MarkMyPaper)
-> An automated answer sheet grading system powered by OCR
-
-Flask web app that uses **TrOCR** (Microsoft's handwriting model) to extract text from uploaded answer sheets and grades them against model answers using fuzzy text matching. Supports PDF and image uploads, JWT authentication, and weighted scoring per question.
-
-**Stack:** `Python` `Flask` `PyTorch` `TrOCR` `SQLite` `HTML/CSS`
-
----
-
-### 🔐 [VouchSafe](https://github.com/DysCreate/VouchSafe)
-> A trust-score-based job marketplace connecting employers and employees
-
-Full-stack platform where **employees** build a Trust Score through completed jobs and community vouching, and **employers** discover and hire ranked talent. Features role-based access, JWT auth, a custom trust engine with inactivity decay, and a clean React + Tailwind frontend.
-
-**Stack:** `Node.js` `Express` `MongoDB` `React` `Vite` `Tailwind CSS` `JWT`
+```text
+user@github
+-----------
+Name:       Pranav P P
+Alias:      DysCreate
+Role:       Full-stack developer
+Location:   Thrissur, Kerala, India
+Languages:  Python, JavaScript, Java
+Focus:      Web applications, AI/ML tooling
+```
 
 ---
 
-### 💼 [JobLink](https://github.com/DysCreate/JobLink)
-> A job connection platform built with Java
+```bash
+pranav@github:~$ cat stack.json
+```
 
-**Stack:** `Java`
-
----
-
-### 🏥 [Hospital Booking](https://github.com/DysCreate/hospital-booking)
-> A hospital appointment booking web app
-
-**Stack:** `HTML` `CSS` `JavaScript`
-
----
-
-### 🧩 [familiquest](https://github.com/WanderingHumanid/familiquest) *(Collaboration)*
-> A quest-based family engagement app
-
-**Stack:** `Python`
+| Category | Technologies |
+|:--|:--|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-24283b?style=flat-square&logo=python&logoColor=7aa2f7) ![JavaScript](https://img.shields.io/badge/JavaScript-24283b?style=flat-square&logo=javascript&logoColor=e0af68) ![Java](https://img.shields.io/badge/Java-24283b?style=flat-square&logo=openjdk&logoColor=ff9e64) ![HTML5](https://img.shields.io/badge/HTML5-24283b?style=flat-square&logo=html5&logoColor=f7768e) ![CSS3](https://img.shields.io/badge/CSS3-24283b?style=flat-square&logo=css3&logoColor=7dcfff) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-24283b?style=flat-square&logo=react&logoColor=7dcfff) ![Vite](https://img.shields.io/badge/Vite-24283b?style=flat-square&logo=vite&logoColor=bb9af7) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-24283b?style=flat-square&logo=tailwind-css&logoColor=7dcfff) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-24283b?style=flat-square&logo=nodedotjs&logoColor=9ece6a) ![Express](https://img.shields.io/badge/Express-24283b?style=flat-square&logo=express&logoColor=c0caf5) ![Flask](https://img.shields.io/badge/Flask-24283b?style=flat-square&logo=flask&logoColor=c0caf5) |
+| **AI / ML** | ![PyTorch](https://img.shields.io/badge/PyTorch-24283b?style=flat-square&logo=pytorch&logoColor=f7768e) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-24283b?style=flat-square&logo=huggingface&logoColor=e0af68) ![TrOCR](https://img.shields.io/badge/TrOCR-24283b?style=flat-square&logo=microsoft&logoColor=7aa2f7) |
+| **Database & Auth** | ![MongoDB](https://img.shields.io/badge/MongoDB-24283b?style=flat-square&logo=mongodb&logoColor=9ece6a) ![SQLite](https://img.shields.io/badge/SQLite-24283b?style=flat-square&logo=sqlite&logoColor=7dcfff) ![JWT](https://img.shields.io/badge/JWT-24283b?style=flat-square&logo=jsonwebtokens&logoColor=bb9af7) |
 
 ---
 
-## 📊 GitHub Stats
+```bash
+pranav@github:~$ ls -la projects/
+```
+
+### [MarkMyPaper](https://github.com/DysCreate/MarkMyPaper)
+*Automated answer sheet grading system powered by OCR*
+
+Flask web application that uses **TrOCR** (Microsoft's handwriting recognition model) to extract text from uploaded answer sheets and grades them against model answers using fuzzy text matching. Supports PDF and image uploads, JWT authentication, and weighted scoring per question.
+
+`Python` `Flask` `PyTorch` `TrOCR` `SQLite` `HTML/CSS`
+
+---
+
+### [VouchSafe](https://github.com/DysCreate/VouchSafe)
+*Trust-score-based job marketplace connecting employers and employees*
+
+Full-stack platform where **employees** build a Trust Score through completed jobs and community vouching, and **employers** discover and hire ranked talent. Features role-based access, JWT authentication, a custom trust engine with inactivity decay, and a React + Tailwind frontend.
+
+`Node.js` `Express` `MongoDB` `React` `Vite` `Tailwind CSS` `JWT`
+
+---
+
+### [JobLink](https://github.com/DysCreate/JobLink)
+*Job connection platform built with Java*
+
+`Java`
+
+---
+
+### [Hospital Booking](https://github.com/DysCreate/hospital-booking)
+*Hospital appointment booking web application*
+
+`HTML` `CSS` `JavaScript`
+
+---
+
+### [familiquest](https://github.com/WanderingHumanid/familiquest) (collaboration)
+*Quest-based family engagement application*
+
+`Python`
+
+---
+
+```bash
+pranav@github:~$ gh stats --user DysCreate
+```
 
 <div align="center">
 
-![Pranav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DysCreate&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=DysCreate&show_icons=true&hide_border=true&count_private=true&title_color=7aa2f7&text_color=c0caf5&icon_color=bb9af7&bg_color=1a1b26" alt="GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DysCreate&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DysCreate&layout=compact&hide_border=true&title_color=7aa2f7&text_color=c0caf5&bg_color=1a1b26" alt="Top Languages" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=DysCreate&theme=tokyonight&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=DysCreate&hide_border=true&background=1a1b26&ring=bb9af7&fire=ff9e64&currStreakNum=c0caf5&currStreakLabel=7aa2f7&sideNums=c0caf5&sideLabels=7aa2f7&dates=565f89" alt="GitHub Streak" />
 
 </div>
 
 ---
 
+```bash
+pranav@github:~$ ./contribution-graph.sh
+```
 
 <div align="center">
 
@@ -117,9 +137,24 @@ Full-stack platform where **employees** build a Trust Score through completed jo
   <img alt="github-snake" src="https://raw.githubusercontent.com/DysCreate/DysCreate/output/github-contribution-grid-snake.svg" />
 </picture>
 
+</div>
 
-*"Exploring programs, one commit at a time."*
+---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=DysCreate&color=blueviolet&style=flat-square)
+```bash
+pranav@github:~$ cat contact.txt
+```
+
+- LinkedIn: [linkedin.com/in/pranav-p-p](https://linkedin.com/in/pranav-p-p)
+- GitHub: [github.com/DysCreate](https://github.com/DysCreate)
+- Location: Thrissur, Kerala, India
+
+```bash
+pranav@github:~$ _
+```
+
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=DysCreate&color=7aa2f7&style=flat-square&label=VISITORS)
 
 </div>
