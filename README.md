@@ -115,18 +115,26 @@ pranav@github:~$ gh stats --user DysCreate
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DysCreate&show_icons=true&hide_border=true&count_private=true&title_color=7aa2f7&text_color=c0caf5&icon_color=bb9af7&bg_color=1a1b26" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DysCreate&layout=compact&hide_border=true&title_color=7aa2f7&text_color=c0caf5&bg_color=1a1b26" alt="Top Languages" />
-
-<img src="https://streak-stats.demolab.com?user=DysCreate&hide_border=true&background=1a1b26&ring=bb9af7&fire=ff9e64&currStreakNum=c0caf5&currStreakLabel=7aa2f7&sideNums=c0caf5&sideLabels=7aa2f7&dates=565f89" alt="GitHub Streak" />
+<img src="https://raw.githubusercontent.com/DysCreate/DysCreate/main/metrics.terminal.svg" alt="GitHub metrics" />
 
 </div>
 
 ---
 
 ```bash
-pranav@github:~$ ./contribution-graph.sh
+pranav@github:~$ ./contribution-graph.sh --isometric
+```
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/DysCreate/DysCreate/main/metrics.isocalendar.svg" alt="Isometric contribution calendar" />
+
+</div>
+
+---
+
+```bash
+pranav@github:~$ ./snake.sh
 ```
 
 <div align="center">
